@@ -3,6 +3,7 @@ layout: post
 title:  "How I Setup This Site"
 date:   2024-01-13 13:40:00 -0600
 categories: jekyll
+toc: true
 ---
 
 ### Setup Ruby and Jekyll (on Fedora)
