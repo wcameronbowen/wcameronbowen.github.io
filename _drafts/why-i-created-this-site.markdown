@@ -3,6 +3,7 @@ layout: post
 title:  "Why I Created This Site"
 #date:   2024-1-15 00:00:00 -0600
 categories: jekyll update
+toc: false
 ---
 My first post was on [how I setup this site](/jekyll/2024/01/13/setting-up-this-site.html). But thoughts and experiences behind why I created this site are much more interesting. God knows there are enough blogs to fill _insert large area/geographic structure here_. This blog is not a recipe to share or a new way of accomplishing your top 10 goals this year. This site is the result of several realizations, the most influential being that **writing is thinking**. I hated writing in school, I frequently struggled to meet the arbitrary word limit. I remember being forced to write non-stop for 10 minutes every day in a college English class. I loved it. How did I hate writing research papers, but loved writing for 10 minutes every day? There are numerous benefits to writing, less stress/anxiety, better sleep, etc. They seem to stem from that core idea that **writing is thinking**.
 
