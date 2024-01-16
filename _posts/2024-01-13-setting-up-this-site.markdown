@@ -4,7 +4,9 @@ title:  "How I Setup This Site"
 date:   2024-01-13 13:40:00 -0600
 categories: jekyll
 ---
-Setting up ruby on fedora laptop.
+
+### Setup Ruby and Jekyll (on Fedora)
+You would think that parenthetical doesn't make a difference, more on that to come.
 
 1. install ruby from dnf
 {% highlight bash %}
